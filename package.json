@@ -1,0 +1,20 @@
+{
+  "name": "neurodex",
+  "private": true,
+  "version": "0.3.0",
+  "type": "module",
+  "description": "Neurodex : jeu de cartes à collectionner sur la psychologie et les neurosciences (prototype web mobile, React).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
